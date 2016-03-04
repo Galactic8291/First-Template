@@ -11,7 +11,7 @@ Go to localhost:3000 for Hello World! <br />
 Go to localhost:3000/graphql to see Graphiql interface
 
 
-When setting up for a real db you will have to cahnge schema on your own! <br />
+When setting up for production you will have to change the schema to your own! <br />
 A simple schema is setup for a query and has a commented mutation
 
 ![alt text](http://icowebsolutions.com/wp-content/uploads/2015/11/Ninja-Shadow-2.png)
