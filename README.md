@@ -1,4 +1,4 @@
-# SwordOfTheNinja
+# SwordOfTheNinja (DEPRECATED)
 No React Ninja Is Good Without His Tools 
 
 This Sword Repo Is One Of Many We Are Building
